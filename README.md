@@ -1,7 +1,7 @@
-<h1> Micropost with basic sign in & entry validation </h1>
+<h1> Micropost with basic sign in authentication </h1>
  
- A micropost app that allows creation of new users:
+ A micropost app that allows creation of new users via a username and password:
  includes email validation to remove bots sign up
  validation that stops blank form entry or invalid characters
  You are abe to create an account and start posting straight away
- Posts are limited to 140 characters like twitter 
+ Users are able to share their thoughts in 140 characters like twitter 
