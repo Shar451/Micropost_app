@@ -5,3 +5,11 @@
  validation that stops blank form entry or invalid characters
  You are abe to create an account and start posting straight away
  Users are able to share their thoughts in 140 characters like twitter 
+
+<h2> What I learnt and utilised </h2>
+
+MVC Architecture
+HTTP Requests
+REpresentational State Transfer
+Has_many model association
+Inheritance hierarchy
