@@ -8,8 +8,8 @@
 
 <h2> What I learnt and utilised </h2>
 
-MVC Architecture
-HTTP Requests
-REpresentational State Transfer
-Has_many model association
-Inheritance hierarchy
+MVC Architecture <br />
+HTTP Requests <br />
+REpresentational State Transfer <br />
+Has_many model association <br />
+Inheritance hierarchy 
