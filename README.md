@@ -1,4 +1,4 @@
-<h1> Basic sign in with entry validation </h1>
+<h1> Micropost with basic sign in & entry validation </h1>
  
  A micropost app that allows creation of new users:
  includes email validation to remove bots sign up
