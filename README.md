@@ -1,24 +1,15 @@
-# README
+<h1> Micropost with basic sign in authentication </h1>
+ 
+ A micropost app that allows creation of new users via a username and password:
+ includes email validation to remove bots sign up
+ validation that stops blank form entry or invalid characters
+ You are abe to create an account and start posting straight away
+ Users are able to share their thoughts in 140 characters like twitter 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<h2> What I learnt and utilised </h2>
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+MVC Architecture <br />
+HTTP Requests <br />
+REpresentational State Transfer <br />
+Has_many model association <br />
+Inheritance hierarchy 
